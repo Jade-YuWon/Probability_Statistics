@@ -11,3 +11,6 @@
   2. Coursera
     - Introduction to Probability and Data (Duke university): https://www.coursera.org/learn/probability-intro
 - 
+### 04.13 (Wed)
+- 공분산 (Covariance)
+  - 공분산은 2개의 확률변수의 선형 관계를 나타내는 값이다. 만약 2개의 변수중 하나의 값이 상승하는 경향을 보일 때 다른 값도 상승하는 선형 상관성이 있다면 양수의 공분산을 가진다. 위키백과
